@@ -56,4 +56,13 @@ body.gelap .card { background-color: #1c2538; border-color: #33415c; }
 }
 /* ===== BAGIAN MAHASISWA 2 (Beranda) ===== */
 /* ===== BAGIAN MAHASISWA 3 (Profil dan Kegiatan) ===== */
+/* Bagian Profil & Kegiatan */
+main h3 {
+  margin-top: 16px;
+  color: #1f3864;
+}
+main ul {
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
 /* ===== BAGIAN MAHASISWA 4 (Kontak) ===== */
